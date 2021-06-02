@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "87748778982",
+    "project_id": "yizh-app-ios",
+    "storage_bucket": "yizh-app-ios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87748778982:android:ea901f85dd4227d7d55427",
+        "android_client_info": {
+          "package_name": "com.example.yizh_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87748778982-pgj2734tuaut3tnc30s6nvrrhdadpme1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-UYoH0U0EUSKidwnTP90jIFzttJGTjh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87748778982-pgj2734tuaut3tnc30s6nvrrhdadpme1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "87748778982-644htucbpc91nsc254umjd4m10af5kge.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ua.bandriychuk.YiZH-App"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

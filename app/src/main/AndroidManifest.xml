@@ -3,13 +3,15 @@
     package="com.example.yizh_app">
 
     <application
+
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.YiZH_app">
-        <activity android:name=".FunctionalActivity"></activity>
+        <activity android:name=".ui.fuctional.profile.AboutUsActivity"></activity>
+        <activity android:name=".FunctionalActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">YiZH_app</string>
-     <string name="hello_blank_fragment">Hello blank fragment</string>
-
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_us">info about us</string>
 </resources>
